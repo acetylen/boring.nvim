@@ -3,8 +3,9 @@
 `boring` is a very plain Neovim theme, inspired by the `plain-cterm` theme
 from [`vim-colors-plain`](https://github.com/andreypopp/vim-colors-plain)
 but rewritten in Lua.
-It's cterm-only by choice, but can be easily modified into a true colour
-theme if you so desire. I don't.
+It's cterm-only (e.g. it uses whatever colours are configured in your
+terminal), but can be easily modified into a truecolour theme if you
+so desire. I don't.
 
 Support for some plugins and languages have been added, but I probably won't
 add more.
