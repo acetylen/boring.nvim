@@ -5,7 +5,8 @@ from [`vim-colors-plain`](https://github.com/andreypopp/vim-colors-plain).
 It's cterm-only by choice, but can be easily modified into a true colour
 theme if you so desire. I don't.
 
-There are no officially supported plugins, but most tend to work anyway.
+Support for some plugins and languages have been added, but I probably won't
+add more.
 
 The theme is developed for a light background, so changing the accent colour
 may be needed if you use a dark background.
