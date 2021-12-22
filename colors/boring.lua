@@ -62,6 +62,7 @@ local function linkall(items, base)
 end
 
 -- color element definitions
+local value = dark.cyan
 local accent = dark.white
 
 
@@ -79,7 +80,7 @@ linkall({"CursorLineNr", "FoldColumn", "SignColumn"}, "LineNr")
 
 hl("Comment", {ctermfg=bright.black, cterm=style.italic})
 
-hl("Constant", {ctermfg=dark.cyan})
+hl("Constant", {ctermfg=value})
 linkall({"Character", "Number", "Boolean", "Float", "String", "Directory", "Title"}, "Constant")
 
 hl("Statement", {cterm=style.bold})
