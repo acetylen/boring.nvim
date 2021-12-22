@@ -17,6 +17,5 @@ Install with package manager of choice, then `colorscheme boring`.
 
 ## Preview
 
-![Screenshot 2021-12-22 at 11 55 27](https://user-images.githubusercontent.com/42578370/147082034-b3d02470-d429-4101-b46d-e6c98519670f.png)
-
-Font is GoMono.
+Font is GoMono. Terminal is kitty. Background color is #FFF8F0 (not part of the theme, but what it was developed with)
+![Screenshot 2021-12-22 at 12 16 43](https://user-images.githubusercontent.com/42578370/147084778-5213ab35-ec80-41d7-a69e-c105ffbd43c4.png)
