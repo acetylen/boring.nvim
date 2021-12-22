@@ -1,7 +1,7 @@
 # Boring.nvim - a lua theme with no colors
 
-`boring` is a very plain theme, inspired by the `plain-cterm` theme from
-[`vim-colors-plain`](https://github.com/andreypopp/vim-colors-plain).
+`boring` is a very plain Neovim theme, inspired by the `plain-cterm` theme
+from [`vim-colors-plain`](https://github.com/andreypopp/vim-colors-plain).
 It's cterm-only by choice, but can be easily modified into a true colour
 theme if you so desire. I don't.
 
