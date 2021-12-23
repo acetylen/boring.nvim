@@ -1,3 +1,4 @@
+
 # Boring.nvim
 
 `boring` is a very plain Neovim theme, inspired by the `plain-cterm` theme
@@ -20,4 +21,4 @@ Install with package manager of choice, then `colorscheme boring`.
 ## Preview
 
 Font is GoMono. Terminal is kitty. Background color is #FFF8F0 (set in terminal, not in theme)
-![Screenshot 2021-12-22 at 14 23 54](https://user-images.githubusercontent.com/42578370/147099500-0ffe9cf4-f48a-45d1-8947-10968b630e29.png)
+![Screenshot](https://user-images.githubusercontent.com/42578370/147228599-174a0ede-f26f-43fd-bba5-bd6bcecb3d8b.png)
