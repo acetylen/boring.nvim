@@ -99,7 +99,7 @@ hl("InfoMsg", {ctermfg=dark.magenta, cterm=style.bold})
 hl("MoreMsg", {ctermfg=bright.black, cterm=style.bold})
 link("ModeMsg", "MoreMsg")
 
-hl("NonText", {ctermfg=bright.black})
+hl("NonText", {ctermfg=dark.white})
 linkall({"Folded", "qfLineNr"}, "NonText")
 
 hl("Visual", {ctermbg=bright.blue})
